@@ -1,14 +1,29 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {
+        "title": "Raclette",
+        "body": "Des patates",
+        "location": "La Plateforme",
+        "location_details": "RDC Lounge",
+        "participation_fee": 5,
+        "date_start": "2021-01-30 18:00:00",
+        "date_end": "2021-12-31 18:00:00"
+    },
+    {
+        "title": "How To flemme",
+        "body": "Comment optimiser la flemme",
+        "location": "La Plateforme",
+        "location_details": "Boradcast Room",
+        "participation_fee": 0,
+        "date_start": "2021-01-29 18:00:00",
+        "date_end": "2021-12-31 18:00:00"
+    },
+    {
+        "title": "Chandeleur",
+        "body": "Vente de crêpes",
+        "location": "La Plateforme",
+        "location_details": "RDC Lounge",
+        "participation_fee": 0,
+        "date_start": "2021-01-31 18:00:00",
+        "date_end": "2021-12-31 18:00:00"
+    }
+]
